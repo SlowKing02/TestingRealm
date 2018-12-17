@@ -1,0 +1,13 @@
+/**
+ ** Test Realm
+ **/
+ 
+import java.util.Scanner;
+ 
+public class Project3TestRealm
+{
+    public static void main (String[] args) 
+    {
+
+    }
+}
